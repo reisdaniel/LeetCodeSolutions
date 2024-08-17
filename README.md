@@ -47,3 +47,7 @@ O projeto está organizado como uma aplicação console em C#. Cada problema é 
 3. Defina o problema que você deseja executar como o `Startup Object` no arquivo `Program.cs`.
 4. Execute a aplicação.
 
+### Exemplos de Problemas
+
+- **Two Sum:** Dado um array de inteiros `nums` e um inteiro `target`, retorne os índices dos dois números que somados resultam no `target`. [Solução](Solutions/TwoSum.cs)
+
